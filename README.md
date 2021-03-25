@@ -11,10 +11,10 @@ Download Library graphics.h
 https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view
 
 ## Instalasi 
-1. Instal tdm-gcc 32bit\
-2. Copy dan Paste 'graphics.h' dan 'winbgim.h' pada folder 'include' di dalam folder tempat menyimpan instalasi tdm-gcc 32bit\
-3. Copy dan Paste 'libbgi.a' pada folder 'lib' di dalam folder tempat menyimpan instalasi tdm-gcc 32bit\
-4. Rename folder 'tes' menjadi '.vscode'\
-5. Jangan lupa setting direktori tdm-gcc32bit pada 'c_cpp_properties.json'\
+1. Instal tdm-gcc 32bit
+2. Copy dan Paste 'graphics.h' dan 'winbgim.h' pada folder 'include' di dalam folder tempat menyimpan instalasi tdm-gcc 32bit
+3. Copy dan Paste 'libbgi.a' pada folder 'lib' di dalam folder tempat menyimpan instalasi tdm-gcc 32bit
+4. Rename folder 'tes' menjadi '.vscode'
+5. Jangan lupa setting direktori tdm-gcc32bit pada 'c_cpp_properties.json'
 
 Let's Rock n Roll
