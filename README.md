@@ -14,7 +14,7 @@ https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view
 1. Install tdm-gcc 32bit
 2. Copy and paste 'graphics.h' and 'winbgim.h' into your tdm-gcc 32bit include folder (ex: C:/tdm-gcc/include/)
 3. Copy and paste 'libbgi.a' into your tdm-gcc 32bit lib folder (ex: C:/tdm-gcc/lib/)
-4. Rename folder named 'tes' with '.vscode'
+4. Rename folder named 'rename it with .vscode' with '.vscode'
 5. Don't forget to change a correct directoties on 'c_cpp_properties.json' depend on your tdm-gcc installation directori
 
 For detail procedure of how to install and setup tdm-gcc: 
