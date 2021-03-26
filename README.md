@@ -28,6 +28,5 @@ Compile and Linking your .cpp file with: \
 Run your program: \
 `./.exe`
 
-You can see on 'how_to_run.txt' :)
 
 Let's Rock n Roll
