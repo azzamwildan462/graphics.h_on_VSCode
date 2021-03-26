@@ -1,12 +1,12 @@
 # 25 Maret 2021
 I try to make a template project for using a graphics.h Library with VSCode. 
 
-Download tdm-gcc 32bit 
+Download tdm-gcc 32bit: 
 
 https://jmeubank.github.io/tdm-gcc/
 
 
-Download Library 
+Download Library: 
 
 https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view
 
@@ -22,10 +22,10 @@ For detail procedure of how to install and setup tdm-gcc:
 https://www.youtube.com/watch?v=VEkAj-xVTKQ
 
 ## Usage 
-Compile and Linking your .cpp file with: 
+Compile and Linking your .cpp file with: \
 `g++ main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32`
 
-Run your program: 
+Run your program: \
 `./.exe`
 
 You can see on 'how_to_run.txt' :)
