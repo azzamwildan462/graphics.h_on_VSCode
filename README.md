@@ -1,4 +1,4 @@
-# 25 Maret 2021
+# March 25, 2021
 I try to make a template project for using a graphics.h Library with VSCode. 
 
 Download tdm-gcc 32bit: 
