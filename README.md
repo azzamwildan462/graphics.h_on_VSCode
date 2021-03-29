@@ -26,7 +26,7 @@ Compile and Linking your .cpp file with: \
 `g++ main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32`
 
 Run your program: \
-`./.exe`
+`./a.exe`
 
 
 Let's Rock n Roll
