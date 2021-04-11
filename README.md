@@ -22,6 +22,7 @@ For detail procedure of how to install and setup tdm-gcc:
 https://www.youtube.com/watch?v=VEkAj-xVTKQ
 
 ## Usage 
+Make sure you have add a mingw32bit's PATH to your system \
 Compile and Linking your .cpp file with: \
 `g++ main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32`
 
